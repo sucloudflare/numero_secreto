@@ -1,5 +1,3 @@
-# numero_secreto
-
 # Jogo do Número Secreto
 
 Bem-vindo ao Jogo do Número Secreto! Este é um simples jogo em JavaScript onde o jogador tenta adivinhar um número secreto entre 1 e 10.
